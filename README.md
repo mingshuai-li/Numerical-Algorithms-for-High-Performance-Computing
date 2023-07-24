@@ -1,1 +1,1 @@
-# Numerical-Algorithms-for-High-Performance-Computing
+# Numerical Algorithms for High Performance Computing
